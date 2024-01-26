@@ -1,0 +1,38 @@
+body {
+    color: orange;
+}
+
+.food-card{
+    border: 0;
+    margin: 15px auto;
+}
+
+.card-body{
+    padding:0
+}
+
+.btn{
+    background-color: orange
+}
+
+#header{
+    margin: 15px auto;
+    font-style: bold;
+    font-family: Georgia, serif;
+    color: rgb(0, 0, 0)
+}
+
+#subheader{
+    font-family: URW Chancery L, cursive;
+    color: rgb(255, 165, 10)
+}
+
+small {
+    font-family: Helvetica, sans-serif;
+    font-style: italic;
+    color:darkgrey
+}
+.card-img{
+    min-width: 110px;
+    max-width: 150px;
+}
